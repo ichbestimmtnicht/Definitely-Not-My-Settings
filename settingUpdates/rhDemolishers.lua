@@ -1,5 +1,5 @@
 local set_setting = require("set_setting")
-if mods["Rocs-Hardcore-Demolishers"] then
+if mods["Rocs-Hardcore-Demolishers-Extended"] then
   set_setting("bool-setting", "rocs-hardcore-demolishers-stronger-demolishers", true)
   set_setting("bool-setting", "rocs-hardcore-smaller-demolisher-territory-radius", true)
   set_setting("bool-setting", "rocs-hardcore-vulcanus-condensed-map", true)

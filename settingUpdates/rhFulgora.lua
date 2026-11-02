@@ -1,5 +1,5 @@
 local set_setting = require("set_setting")
-if mods["Rocs-Hardcore-Fulgora"] then
+if mods["Rocs-Hardcore-Fulgora-Extended"] then
   set_setting("bool-setting", "rocs-hardcore-fulgora-cargo-drops-need-research", true)
   set_setting("bool-setting", "rocs-hardcore-fulgora-cargo-drop-research-needs-space-science", true)
   set_setting("bool-setting", "rocs-hardcore-fulgora-lightning-rods-need-research", true)

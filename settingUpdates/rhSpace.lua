@@ -1,5 +1,5 @@
 local set_setting = require("set_setting")
-if mods["Rocs-Hardcore-Space-Tweaks"] then
+if mods["Rocs-Hardcore-Space-Tweaks-Extended"] then
   set_setting("bool-setting", "no-underground-belts-on-platforms", true)
   set_setting("bool-setting", "no-underground-pipes-on-platforms", true)
   set_setting("bool-setting", "rocs-hardcore-spaced-asteroids-early-copper-available", true)

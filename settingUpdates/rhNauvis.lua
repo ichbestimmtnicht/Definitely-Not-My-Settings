@@ -1,5 +1,5 @@
 local set_setting = require("set_setting")
-if mods["Rocs-Hardcore-Nauvis"] then
+if mods["Rocs-Hardcore-Nauvis-Extended"] then
   set_setting("bool-setting", "hard-nauvis-half-mixed-ores", true)
   set_setting("bool-setting", "hard-nauvis-fully-mixed-ores", true)
   set_setting("bool-setting", "hard-nauvis-landmines-disabled", true)
